@@ -1,0 +1,902 @@
+[
+	{
+		"primary_key": 1,
+		"zipcode": "01945",
+		"city": "Gr\u00fcnewald",
+		"state": "Brandenburg",
+		"community": "Landkreis Oberspreewald-Lausitz",
+		"latitude": 51.4,
+		"longitude": 14.0
+	},
+	{
+		"primary_key": 2,
+		"zipcode": "01945",
+		"city": "Lindenau",
+		"state": "Brandenburg",
+		"community": "Landkreis Oberspreewald-Lausitz",
+		"latitude": 51.4,
+		"longitude": 13.7333
+	},
+	{
+		"primary_key": 3,
+		"zipcode": "01945",
+		"city": "Hohenbocka",
+		"state": "Brandenburg",
+		"community": "Landkreis Oberspreewald-Lausitz",
+		"latitude": 51.431,
+		"longitude": 14.0098
+	},
+	{
+		"primary_key": 4,
+		"zipcode": "01945",
+		"city": "Schwarzbach",
+		"state": "Brandenburg",
+		"community": "Landkreis Oberspreewald-Lausitz",
+		"latitude": 51.45,
+		"longitude": 13.9333
+	},
+	{
+		"primary_key": 5,
+		"zipcode": "01945",
+		"city": "Guteborn",
+		"state": "Brandenburg",
+		"community": "Landkreis Oberspreewald-Lausitz",
+		"latitude": 51.4167,
+		"longitude": 13.9333
+	},
+	{
+		"primary_key": 6,
+		"zipcode": "01945",
+		"city": "Hermsdorf",
+		"state": "Brandenburg",
+		"community": "Landkreis Oberspreewald-Lausitz",
+		"latitude": 51.4055,
+		"longitude": 13.8937
+	},
+	{
+		"primary_key": 7,
+		"zipcode": "01945",
+		"city": "Ruhland",
+		"state": "Brandenburg",
+		"community": "Landkreis Oberspreewald-Lausitz",
+		"latitude": 51.4576,
+		"longitude": 13.8664
+	},
+	{
+		"primary_key": 8,
+		"zipcode": "01945",
+		"city": "Tettau",
+		"state": "Brandenburg",
+		"community": "Landkreis Oberspreewald-Lausitz",
+		"latitude": 51.4333,
+		"longitude": 13.7333
+	},
+	{
+		"primary_key": 9,
+		"zipcode": "01945",
+		"city": "Kroppen",
+		"state": "Brandenburg",
+		"community": "Landkreis Oberspreewald-Lausitz",
+		"latitude": 51.3833,
+		"longitude": 13.8
+	},
+	{
+		"primary_key": 10,
+		"zipcode": "01968",
+		"city": "Schipkau H\u00f6rlitz",
+		"state": "Brandenburg",
+		"community": "Landkreis Oberspreewald-Lausitz",
+		"latitude": 51.5299,
+		"longitude": 13.9508
+	},
+	{
+		"primary_key": 11,
+		"zipcode": "01968",
+		"city": "Senftenberg",
+		"state": "Brandenburg",
+		"community": "Landkreis Oberspreewald-Lausitz",
+		"latitude": 51.5252,
+		"longitude": 14.0016
+	},
+	{
+		"primary_key": 12,
+		"zipcode": "01968",
+		"city": "Schipkau",
+		"state": "Brandenburg",
+		"community": "Landkreis Oberspreewald-Lausitz",
+		"latitude": 51.5456,
+		"longitude": 13.9121
+	},
+	{
+		"primary_key": 13,
+		"zipcode": "01979",
+		"city": "Lauchhammer",
+		"state": "Brandenburg",
+		"community": "Landkreis Oberspreewald-Lausitz",
+		"latitude": 51.4881,
+		"longitude": 13.7662
+	},
+	{
+		"primary_key": 14,
+		"zipcode": "01983",
+		"city": "Neu-Seeland",
+		"state": "Brandenburg",
+		"community": "Landkreis Oberspreewald-Lausitz",
+		"latitude": 51.6214,
+		"longitude": 14.1309
+	},
+	{
+		"primary_key": 15,
+		"zipcode": "01983",
+		"city": "Gro\u00dfr\u00e4schen",
+		"state": "Brandenburg",
+		"community": "Landkreis Oberspreewald-Lausitz",
+		"latitude": 51.5876,
+		"longitude": 14.0109
+	},
+	{
+		"primary_key": 16,
+		"zipcode": "01987",
+		"city": "Schwarzheide",
+		"state": "Brandenburg",
+		"community": "Landkreis Oberspreewald-Lausitz",
+		"latitude": 51.4767,
+		"longitude": 13.8556
+	},
+	{
+		"primary_key": 17,
+		"zipcode": "01990",
+		"city": "Ortrand",
+		"state": "Brandenburg",
+		"community": "Landkreis Oberspreewald-Lausitz",
+		"latitude": 51.375,
+		"longitude": 13.7598
+	},
+	{
+		"primary_key": 18,
+		"zipcode": "01990",
+		"city": "Gro\u00dfkmehlen",
+		"state": "Brandenburg",
+		"community": "Landkreis Oberspreewald-Lausitz",
+		"latitude": 51.379,
+		"longitude": 13.725
+	},
+	{
+		"primary_key": 19,
+		"zipcode": "01990",
+		"city": "Frauendorf",
+		"state": "Brandenburg",
+		"community": "Landkreis Oberspreewald-Lausitz",
+		"latitude": 51.4148,
+		"longitude": 13.7696
+	},
+	{
+		"primary_key": 20,
+		"zipcode": "01993",
+		"city": "Schipkau Schipkau",
+		"state": "Brandenburg",
+		"community": "Landkreis Oberspreewald-Lausitz",
+		"latitude": 51.5101,
+		"longitude": 13.8981
+	},
+	{
+		"primary_key": 21,
+		"zipcode": "01993",
+		"city": "Schipkau",
+		"state": "Brandenburg",
+		"community": "Landkreis Oberspreewald-Lausitz",
+		"latitude": 51.5456,
+		"longitude": 13.9121
+	},
+	{
+		"primary_key": 22,
+		"zipcode": "01994",
+		"city": "Schipkau Annah\u00fctte, Annah\u00fctte",
+		"state": "Brandenburg",
+		"community": "Landkreis Oberspreewald-Lausitz",
+		"latitude": 51.5632,
+		"longitude": 13.8955
+	},
+	{
+		"primary_key": 23,
+		"zipcode": "01994",
+		"city": "Schipkau Annah\u00fctte, Karl-Marx-Siedlung",
+		"state": "Brandenburg",
+		"community": "Landkreis Oberspreewald-Lausitz",
+		"latitude": 51.5641,
+		"longitude": 13.8692
+	},
+	{
+		"primary_key": 24,
+		"zipcode": "01994",
+		"city": "Schipkau Drochow",
+		"state": "Brandenburg",
+		"community": "Landkreis Oberspreewald-Lausitz",
+		"latitude": 51.5693,
+		"longitude": 13.9237
+	},
+	{
+		"primary_key": 25,
+		"zipcode": "01994",
+		"city": "Schipkau",
+		"state": "Brandenburg",
+		"community": "Landkreis Oberspreewald-Lausitz",
+		"latitude": 51.5456,
+		"longitude": 13.9121
+	},
+	{
+		"primary_key": 26,
+		"zipcode": "01994",
+		"city": "Schipkau Meuro",
+		"state": "Brandenburg",
+		"community": "Landkreis Oberspreewald-Lausitz",
+		"latitude": 51.5504,
+		"longitude": 13.9244
+	},
+	{
+		"primary_key": 27,
+		"zipcode": "01994",
+		"city": "Schipkau Annah\u00fctte",
+		"state": "Brandenburg",
+		"community": "Landkreis Oberspreewald-Lausitz",
+		"latitude": 51.5614,
+		"longitude": 13.882
+	},
+	{
+		"primary_key": 28,
+		"zipcode": "01994",
+		"city": "Schipkau Annah\u00fctte, Annah\u00fctte-Siedlung",
+		"state": "Brandenburg",
+		"community": "Landkreis Oberspreewald-Lausitz",
+		"latitude": 51.5623,
+		"longitude": 13.8742
+	},
+	{
+		"primary_key": 29,
+		"zipcode": "01994",
+		"city": "Schipkau Annah\u00fctte, Herrnnm\u00fchle",
+		"state": "Brandenburg",
+		"community": "Landkreis Oberspreewald-Lausitz",
+		"latitude": 51.5558,
+		"longitude": 13.8891
+	},
+	{
+		"primary_key": 30,
+		"zipcode": "01996",
+		"city": "Hosena",
+		"state": "Brandenburg",
+		"community": "Landkreis Oberspreewald-Lausitz",
+		"latitude": 51.4547,
+		"longitude": 14.0251
+	},
+	{
+		"primary_key": 31,
+		"zipcode": "01998",
+		"city": "Schipkau",
+		"state": "Brandenburg",
+		"community": "Landkreis Oberspreewald-Lausitz",
+		"latitude": 51.5456,
+		"longitude": 13.9121
+	},
+	{
+		"primary_key": 32,
+		"zipcode": "01998",
+		"city": "Schipkau Meuro",
+		"state": "Brandenburg",
+		"community": "Landkreis Oberspreewald-Lausitz",
+		"latitude": 51.5504,
+		"longitude": 13.9244
+	},
+	{
+		"primary_key": 33,
+		"zipcode": "01998",
+		"city": "Schipkau Klettwitz",
+		"state": "Brandenburg",
+		"community": "Landkreis Oberspreewald-Lausitz",
+		"latitude": 51.5422,
+		"longitude": 13.8994
+	},
+	{
+		"primary_key": 34,
+		"zipcode": "03042",
+		"city": "Cottbus",
+		"state": "Brandenburg",
+		"community": "Kreisfreie Stadt Cottbus",
+		"latitude": 51.7612,
+		"longitude": 14.3544
+	},
+	{
+		"primary_key": 35,
+		"zipcode": "03044",
+		"city": "Cottbus",
+		"state": "Brandenburg",
+		"community": "Kreisfreie Stadt Cottbus",
+		"latitude": 51.7754,
+		"longitude": 14.3374
+	},
+	{
+		"primary_key": 36,
+		"zipcode": "03046",
+		"city": "Cottbus",
+		"state": "Brandenburg",
+		"community": "Kreisfreie Stadt Cottbus",
+		"latitude": 51.756,
+		"longitude": 14.3197
+	},
+	{
+		"primary_key": 37,
+		"zipcode": "03048",
+		"city": "Cottbus",
+		"state": "Brandenburg",
+		"community": "Kreisfreie Stadt Cottbus",
+		"latitude": 51.7403,
+		"longitude": 14.3198
+	},
+	{
+		"primary_key": 38,
+		"zipcode": "03050",
+		"city": "Cottbus",
+		"state": "Brandenburg",
+		"community": "Kreisfreie Stadt Cottbus",
+		"latitude": 51.7324,
+		"longitude": 14.3347
+	},
+	{
+		"primary_key": 39,
+		"zipcode": "03051",
+		"city": "Cottbus",
+		"state": "Brandenburg",
+		"community": "Kreisfreie Stadt Cottbus",
+		"latitude": 51.7667,
+		"longitude": 14.3333
+	},
+	{
+		"primary_key": 40,
+		"zipcode": "03052",
+		"city": "Cottbus",
+		"state": "Brandenburg",
+		"community": "Kreisfreie Stadt Cottbus",
+		"latitude": 51.7667,
+		"longitude": 14.3333
+	},
+	{
+		"primary_key": 41,
+		"zipcode": "03053",
+		"city": "Cottbus",
+		"state": "Brandenburg",
+		"community": "Kreisfreie Stadt Cottbus",
+		"latitude": 51.7667,
+		"longitude": 14.3333
+	},
+	{
+		"primary_key": 42,
+		"zipcode": "03054",
+		"city": "Cottbus",
+		"state": "Brandenburg",
+		"community": "Kreisfreie Stadt Cottbus",
+		"latitude": 51.7667,
+		"longitude": 14.3333
+	},
+	{
+		"primary_key": 43,
+		"zipcode": "03055",
+		"city": "Cottbus",
+		"state": "Brandenburg",
+		"community": "Kreisfreie Stadt Cottbus",
+		"latitude": 51.7667,
+		"longitude": 14.3333
+	},
+	{
+		"primary_key": 44,
+		"zipcode": "03058",
+		"city": "Gro\u00df O\u00dfnig",
+		"state": "Brandenburg",
+		"community": "Landkreis Spree-Nei\u00dfe",
+		"latitude": 51.6783,
+		"longitude": 14.3592
+	},
+	{
+		"primary_key": 45,
+		"zipcode": "03058",
+		"city": "Gro\u00df D\u00f6bbern",
+		"state": "Brandenburg",
+		"community": "Landkreis Spree-Nei\u00dfe",
+		"latitude": 51.6515,
+		"longitude": 14.3298
+	},
+	{
+		"primary_key": 46,
+		"zipcode": "03058",
+		"city": "Haasow",
+		"state": "Brandenburg",
+		"community": "Landkreis Spree-Nei\u00dfe",
+		"latitude": 51.7426,
+		"longitude": 14.4209
+	},
+	{
+		"primary_key": 47,
+		"zipcode": "03058",
+		"city": "Klein D\u00f6bbern",
+		"state": "Brandenburg",
+		"community": "Landkreis Spree-Nei\u00dfe",
+		"latitude": 51.6682,
+		"longitude": 14.345
+	},
+	{
+		"primary_key": 48,
+		"zipcode": "03058",
+		"city": "Neuhausen",
+		"state": "Brandenburg",
+		"community": "Landkreis Spree-Nei\u00dfe",
+		"latitude": 51.6788,
+		"longitude": 14.4163
+	},
+	{
+		"primary_key": 49,
+		"zipcode": "03058",
+		"city": "Kathlow",
+		"state": "Brandenburg",
+		"community": "Landkreis Spree-Nei\u00dfe",
+		"latitude": 51.7252,
+		"longitude": 14.4839
+	},
+	{
+		"primary_key": 50,
+		"zipcode": "03058",
+		"city": "Sergen",
+		"state": "Brandenburg",
+		"community": "Landkreis Spree-Nei\u00dfe",
+		"latitude": 51.7023,
+		"longitude": 14.5025
+	},
+	{
+		"primary_key": 51,
+		"zipcode": "03058",
+		"city": "Koppatz",
+		"state": "Brandenburg",
+		"community": "Landkreis Spree-Nei\u00dfe",
+		"latitude": 51.6962,
+		"longitude": 14.4266
+	},
+	{
+		"primary_key": 52,
+		"zipcode": "03058",
+		"city": "Gablenz",
+		"state": "Brandenburg",
+		"community": "Landkreis Spree-Nei\u00dfe",
+		"latitude": 51.6865,
+		"longitude": 14.5094
+	},
+	{
+		"primary_key": 53,
+		"zipcode": "03058",
+		"city": "Gro\u00df Gaglow",
+		"state": "Brandenburg",
+		"community": "Kreisfreie Stadt Cottbus",
+		"latitude": 51.7139,
+		"longitude": 14.3248
+	},
+	{
+		"primary_key": 54,
+		"zipcode": "03058",
+		"city": "Frauendorf",
+		"state": "Brandenburg",
+		"community": "Landkreis Spree-Nei\u00dfe",
+		"latitude": 51.7007,
+		"longitude": 14.3878
+	},
+	{
+		"primary_key": 55,
+		"zipcode": "03058",
+		"city": "Kiekebusch",
+		"state": "Brandenburg",
+		"community": "Kreisfreie Stadt Cottbus",
+		"latitude": 51.7235,
+		"longitude": 14.3631
+	},
+	{
+		"primary_key": 56,
+		"zipcode": "03058",
+		"city": "Roggosen",
+		"state": "Brandenburg",
+		"community": "Landkreis Spree-Nei\u00dfe",
+		"latitude": 51.7043,
+		"longitude": 14.4614
+	},
+	{
+		"primary_key": 57,
+		"zipcode": "03058",
+		"city": "Komptendorf",
+		"state": "Brandenburg",
+		"community": "Landkreis Spree-Nei\u00dfe",
+		"latitude": 51.6846,
+		"longitude": 14.4727
+	},
+	{
+		"primary_key": 58,
+		"zipcode": "03058",
+		"city": "Laubsdorf",
+		"state": "Brandenburg",
+		"community": "Landkreis Spree-Nei\u00dfe",
+		"latitude": 51.6744,
+		"longitude": 14.442
+	},
+	{
+		"primary_key": 59,
+		"zipcode": "03058",
+		"city": "Gallinchen",
+		"state": "Brandenburg",
+		"community": "Kreisfreie Stadt Cottbus",
+		"latitude": 51.711,
+		"longitude": 14.3539
+	},
+	{
+		"primary_key": 60,
+		"zipcode": "03096",
+		"city": "Briesen",
+		"state": "Brandenburg",
+		"community": "Landkreis Spree-Nei\u00dfe",
+		"latitude": 51.8155,
+		"longitude": 14.2442
+	},
+	{
+		"primary_key": 61,
+		"zipcode": "03096",
+		"city": "Guhrow",
+		"state": "Brandenburg",
+		"community": "Landkreis Spree-Nei\u00dfe",
+		"latitude": 51.812,
+		"longitude": 14.2294
+	},
+	{
+		"primary_key": 62,
+		"zipcode": "03096",
+		"city": "Schmogrow-Fehrow",
+		"state": "Brandenburg",
+		"community": "Landkreis Spree-Nei\u00dfe",
+		"latitude": 51.85,
+		"longitude": 14.2333
+	},
+	{
+		"primary_key": 63,
+		"zipcode": "03096",
+		"city": "Werben",
+		"state": "Brandenburg",
+		"community": "Landkreis Spree-Nei\u00dfe",
+		"latitude": 51.8167,
+		"longitude": 14.1833
+	},
+	{
+		"primary_key": 64,
+		"zipcode": "03096",
+		"city": "Dissen-Striesow",
+		"state": "Brandenburg",
+		"community": "Landkreis Spree-Nei\u00dfe",
+		"latitude": 51.825,
+		"longitude": 14.2833
+	},
+	{
+		"primary_key": 65,
+		"zipcode": "03096",
+		"city": "Burg (Spreewald)",
+		"state": "Brandenburg",
+		"community": "Landkreis Spree-Nei\u00dfe",
+		"latitude": 51.8333,
+		"longitude": 14.15
+	},
+	{
+		"primary_key": 66,
+		"zipcode": "03099",
+		"city": "Kolkwitz",
+		"state": "Brandenburg",
+		"community": "Landkreis Spree-Nei\u00dfe",
+		"latitude": 51.75,
+		"longitude": 14.25
+	},
+	{
+		"primary_key": 67,
+		"zipcode": "03103",
+		"city": "Neu-Seeland",
+		"state": "Brandenburg",
+		"community": "Landkreis Oberspreewald-Lausitz",
+		"latitude": 51.6214,
+		"longitude": 14.1309
+	},
+	{
+		"primary_key": 68,
+		"zipcode": "03103",
+		"city": "Neupetershain",
+		"state": "Brandenburg",
+		"community": "Landkreis Oberspreewald-Lausitz",
+		"latitude": 51.608,
+		"longitude": 14.1651
+	},
+	{
+		"primary_key": 69,
+		"zipcode": "03116",
+		"city": "Drebkau",
+		"state": "Brandenburg",
+		"community": "Landkreis Spree-Nei\u00dfe",
+		"latitude": 51.6541,
+		"longitude": 14.2232
+	},
+	{
+		"primary_key": 70,
+		"zipcode": "03119",
+		"city": "Welzow",
+		"state": "Brandenburg",
+		"community": "Landkreis Spree-Nei\u00dfe",
+		"latitude": 51.5838,
+		"longitude": 14.1708
+	},
+	{
+		"primary_key": 71,
+		"zipcode": "03130",
+		"city": "Reuthen",
+		"state": "Brandenburg",
+		"community": "Landkreis Spree-Nei\u00dfe",
+		"latitude": 51.5906,
+		"longitude": 14.5266
+	},
+	{
+		"primary_key": 72,
+		"zipcode": "03130",
+		"city": "T\u00fcrkendorf",
+		"state": "Brandenburg",
+		"community": "Landkreis Spree-Nei\u00dfe",
+		"latitude": 51.591,
+		"longitude": 14.4581
+	},
+	{
+		"primary_key": 73,
+		"zipcode": "03130",
+		"city": "Proschim",
+		"state": "Brandenburg",
+		"community": "Landkreis Spree-Nei\u00dfe",
+		"latitude": 51.5514,
+		"longitude": 14.1884
+	},
+	{
+		"primary_key": 74,
+		"zipcode": "03130",
+		"city": "Graustein",
+		"state": "Brandenburg",
+		"community": "Landkreis Spree-Nei\u00dfe",
+		"latitude": 51.5729,
+		"longitude": 14.4732
+	},
+	{
+		"primary_key": 75,
+		"zipcode": "03130",
+		"city": "Hornow-Wadelsdorf",
+		"state": "Brandenburg",
+		"community": "Landkreis Spree-Nei\u00dfe",
+		"latitude": 51.625,
+		"longitude": 14.4917
+	},
+	{
+		"primary_key": 76,
+		"zipcode": "03130",
+		"city": "Bagenz",
+		"state": "Brandenburg",
+		"community": "Landkreis Spree-Nei\u00dfe",
+		"latitude": 51.6448,
+		"longitude": 14.4332
+	},
+	{
+		"primary_key": 77,
+		"zipcode": "03130",
+		"city": "Lieskau",
+		"state": "Brandenburg",
+		"community": "Landkreis Spree-Nei\u00dfe",
+		"latitude": 51.5683,
+		"longitude": 14.5271
+	},
+	{
+		"primary_key": 78,
+		"zipcode": "03130",
+		"city": "Gro\u00df Luja",
+		"state": "Brandenburg",
+		"community": "Landkreis Spree-Nei\u00dfe",
+		"latitude": 51.5978,
+		"longitude": 14.4467
+	},
+	{
+		"primary_key": 79,
+		"zipcode": "03130",
+		"city": "Haidem\u00fchl",
+		"state": "Brandenburg",
+		"community": "Landkreis Spree-Nei\u00dfe",
+		"latitude": 51.5518,
+		"longitude": 14.2219
+	},
+	{
+		"primary_key": 80,
+		"zipcode": "03130",
+		"city": "Wolfshain",
+		"state": "Brandenburg",
+		"community": "Landkreis Spree-Nei\u00dfe",
+		"latitude": 51.5799,
+		"longitude": 14.589
+	},
+	{
+		"primary_key": 81,
+		"zipcode": "03130",
+		"city": "Tschernitz",
+		"state": "Brandenburg",
+		"community": "Landkreis Spree-Nei\u00dfe",
+		"latitude": 51.5833,
+		"longitude": 14.6167
+	},
+	{
+		"primary_key": 82,
+		"zipcode": "03130",
+		"city": "Spremberg",
+		"state": "Brandenburg",
+		"community": "Landkreis Spree-Nei\u00dfe",
+		"latitude": 51.5696,
+		"longitude": 14.3739
+	},
+	{
+		"primary_key": 83,
+		"zipcode": "03130",
+		"city": "Drieschnitz-Kahsel",
+		"state": "Brandenburg",
+		"community": "Landkreis Spree-Nei\u00dfe",
+		"latitude": 51.6667,
+		"longitude": 14.475
+	},
+	{
+		"primary_key": 84,
+		"zipcode": "03130",
+		"city": "J\u00e4mlitz-Klein D\u00fcben",
+		"state": "Brandenburg",
+		"community": "Landkreis Spree-Nei\u00dfe",
+		"latitude": 51.5667,
+		"longitude": 14.6417
+	},
+	{
+		"primary_key": 85,
+		"zipcode": "03130",
+		"city": "Felixsee",
+		"state": "Brandenburg",
+		"community": "Landkreis Spree-Nei\u00dfe",
+		"latitude": 51.6083,
+		"longitude": 14.5208
+	},
+	{
+		"primary_key": 86,
+		"zipcode": "03139",
+		"city": "Terpe",
+		"state": "Brandenburg",
+		"community": "Landkreis Spree-Nei\u00dfe",
+		"latitude": 51.5667,
+		"longitude": 14.3667
+	},
+	{
+		"primary_key": 87,
+		"zipcode": "03149",
+		"city": "Forst (Lausitz)",
+		"state": "Brandenburg",
+		"community": "Landkreis Spree-Nei\u00dfe",
+		"latitude": 51.7302,
+		"longitude": 14.598
+	},
+	{
+		"primary_key": 88,
+		"zipcode": "03149",
+		"city": "Wiesengrund",
+		"state": "Brandenburg",
+		"community": "Landkreis Spree-Nei\u00dfe",
+		"latitude": 51.6967,
+		"longitude": 14.5533
+	},
+	{
+		"primary_key": 89,
+		"zipcode": "03149",
+		"city": "Gro\u00df Schacksdorf-Simmersdorf",
+		"state": "Brandenburg",
+		"community": "Landkreis Spree-Nei\u00dfe",
+		"latitude": 51.7,
+		"longitude": 14.625
+	},
+	{
+		"primary_key": 90,
+		"zipcode": "03159",
+		"city": "D\u00f6bern",
+		"state": "Brandenburg",
+		"community": "Landkreis Spree-Nei\u00dfe",
+		"latitude": 51.6159,
+		"longitude": 14.5981
+	},
+	{
+		"primary_key": 91,
+		"zipcode": "03159",
+		"city": "Nei\u00dfe-Malxetal",
+		"state": "Brandenburg",
+		"community": "Landkreis Spree-Nei\u00dfe",
+		"latitude": 51.6433,
+		"longitude": 14.63
+	},
+	{
+		"primary_key": 92,
+		"zipcode": "03159",
+		"city": "Wiesengrund",
+		"state": "Brandenburg",
+		"community": "Landkreis Spree-Nei\u00dfe",
+		"latitude": 51.6967,
+		"longitude": 14.5533
+	},
+	{
+		"primary_key": 93,
+		"zipcode": "03172",
+		"city": "Atterwasch",
+		"state": "Brandenburg",
+		"community": "Landkreis Spree-Nei\u00dfe",
+		"latitude": 51.9342,
+		"longitude": 14.6255
+	},
+	{
+		"primary_key": 94,
+		"zipcode": "03172",
+		"city": "B\u00e4renklau",
+		"state": "Brandenburg",
+		"community": "Landkreis Spree-Nei\u00dfe",
+		"latitude": 51.9383,
+		"longitude": 14.5667
+	},
+	{
+		"primary_key": 95,
+		"zipcode": "03172",
+		"city": "Grabko",
+		"state": "Brandenburg",
+		"community": "Landkreis Spree-Nei\u00dfe",
+		"latitude": 51.9099,
+		"longitude": 14.5756
+	},
+	{
+		"primary_key": 96,
+		"zipcode": "03172",
+		"city": "Guben",
+		"state": "Brandenburg",
+		"community": "Landkreis Spree-Nei\u00dfe",
+		"latitude": 51.9499,
+		"longitude": 14.7145
+	},
+	{
+		"primary_key": 97,
+		"zipcode": "03172",
+		"city": "Pinnow-Heideland",
+		"state": "Brandenburg",
+		"community": "Landkreis Spree-Nei\u00dfe",
+		"latitude": 51.9833,
+		"longitude": 14.5333
+	},
+	{
+		"primary_key": 98,
+		"zipcode": "03172",
+		"city": "Grie\u00dfen",
+		"state": "Brandenburg",
+		"community": "Landkreis Spree-Nei\u00dfe",
+		"latitude": 51.8492,
+		"longitude": 14.5924
+	},
+	{
+		"primary_key": 99,
+		"zipcode": "03172",
+		"city": "Gastrose-Kerkwitz",
+		"state": "Brandenburg",
+		"community": "Landkreis Spree-Nei\u00dfe",
+		"latitude": 51.9,
+		"longitude": 14.65
+	},
+	{
+		"primary_key": 100,
+		"zipcode": "03172",
+		"city": "Lutzketal",
+		"state": "Brandenburg",
+		"community": "Landkreis Spree-Nei\u00dfe",
+		"latitude": 51.9833,
+		"longitude": 14.6238
+	}
+]
